@@ -17,4 +17,6 @@ Criar e setar os .env nas pastas server & web
 NEXT_PUBLIC_BASE_URL_API=http://localhost:3333 ``
 
 
-Executar ```npm run dev`` na pasta web & server
+Executar ``npm run dev`` na pasta web & server
+
+Fiz algumas anotações para me auxiliar no desenvolvimento da aplicação e vou deixar salvo aqui o notion com essas anotações https://project-development.notion.site/Teste-t-cnico-Comunikime-ea6622c189684eeda8bc96d7c41c199b
