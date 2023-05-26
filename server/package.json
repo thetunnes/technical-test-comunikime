@@ -1,0 +1,29 @@
+{
+  "name": "backend-comunikime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/cookie": "^8.3.0",
+    "@fastify/cors": "^8.3.0",
+    "@fastify/jwt": "^6.7.1",
+    "@prisma/client": "^4.14.1",
+    "bcrypt": "^5.1.0",
+    "fastify": "^4.17.0",
+    "zod": "^3.21.4"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.0",
+    "@types/node": "^20.2.3",
+    "dotenv": "^16.0.3",
+    "prisma": "^4.14.1",
+    "tsx": "^3.12.7",
+    "typescript": "^5.0.4"
+  }
+}
