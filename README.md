@@ -10,10 +10,10 @@ Instalar dependências nas pastas server & web
 Criar e setar os .env nas pastas server & web
 
 * server 
-`` JWT_SECRET= ``
+`` JWT_SECRET=seupropriosupersecret ``
 
 * web
-`` NEXT_PUBLIC_BASE_URL_WEB=http://localhost:3000 <br />
+`` NEXT_PUBLIC_BASE_URL_WEB=http://localhost:3000
 NEXT_PUBLIC_BASE_URL_API=http://localhost:3333 ``
 
 
